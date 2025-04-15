@@ -1,7 +1,3 @@
-Here is a comprehensive and well-structured **README.md** file for your **Hospital Management System**, incorporating the UI and functionalities visible in the screenshots and file list:
-
----
-
 # 🏥 Hospital Management System
 
 A web-based Hospital Management System that simplifies and streamlines patient registrations, appointment bookings, and medical history management. Built with PHP and MySQL, this system offers separate portals for patients, doctors, and administrators, ensuring a seamless experience across all user types.
