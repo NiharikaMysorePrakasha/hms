@@ -2,13 +2,9 @@
 
 A web-based Hospital Management System that simplifies and streamlines patient registrations, appointment bookings, and medical history management. Built with PHP and MySQL, this system offers separate portals for patients, doctors, and administrators, ensuring a seamless experience across all user types.
 
----
-
 ## 📄 Project Abstract
 
 The Hospital Management System (HMS) is designed to digitize and enhance hospital operations by allowing patients to register, book appointments, and track medical history online. Doctors and admins can manage appointments, patient details, and provide timely healthcare services efficiently. This project addresses the gap between hospital services and digital convenience, improving the patient experience and operational workflow.
-
----
 
 ## 📌 Project Overview
 
