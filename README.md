@@ -81,4 +81,6 @@ No third-party medical datasets are used. Data is entered by users and managed t
 
 ## 📌 Outcome Snapshot
 
+https://github.com/NiharikaMysorePrakasha/hms/blob/main/Outcome.png
+
 
