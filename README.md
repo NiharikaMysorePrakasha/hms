@@ -27,8 +27,6 @@ The HMS portal provides the following major functionalities:
   - View all appointments
   - Oversee medical history logs
 
----
-
 ## 🧱 Tech Stack
 
 | Category        | Tools/Technologies Used             |
@@ -39,16 +37,12 @@ The HMS portal provides the following major functionalities:
 | Server         | Apache (XAMPP/WAMP)                 |
 | Version Control| Git                                 |
 
----
-
 ## 🧰 Tools Used
 
 - **XAMPP/WAMP** – Local server environment
 - **VS Code / Sublime Text** – Code editor
 - **phpMyAdmin** – Database management
 - **GitHub** – Version control and project repository
-
----
 
 ## 🔀 Functional PHP Files
 
@@ -66,8 +60,6 @@ The core PHP files used in the project are:
 - `get_doctor.php` – Retrieve doctor data dynamically  
 - `check_availability.php` – Check appointment availability
 
----
-
 ## 📊 Dataset
 
 No third-party medical datasets are used. Data is entered by users and managed through the interface, and stored securely in a **MySQL** database schema with tables such as:
@@ -78,8 +70,6 @@ No third-party medical datasets are used. Data is entered by users and managed t
 - `medical_history`
 - `admin`
 
----
-
 ## 🔮 Future Scope
 
 - Integration of **E-prescription generation**
@@ -89,9 +79,6 @@ No third-party medical datasets are used. Data is entered by users and managed t
 - Integration with **telemedicine/video consultation modules**
 - Use of **Laravel or Django** for enhanced security and scalability
 
----
-
 ## 📌 Outcome Snapshot
 
-(Outcome.png)
 
